@@ -3,3 +3,4 @@ git status
 git add --all
 git commit -m "What you did?"
 git push
+【git remote set-url origin URL】 更换远程仓库地址，URL为新地址。
