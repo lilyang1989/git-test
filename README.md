@@ -3,3 +3,4 @@ test
 
 ## double test
 
+test *3
